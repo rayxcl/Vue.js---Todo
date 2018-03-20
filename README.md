@@ -1,6 +1,6 @@
 # doit
 
-> A Vue.js project
+> Do it Vue.js 책의 To do App 예제를 따라해봤다. Vue를 익히기에 좋은 예제라 생각된다.
 
 ## Build Setup
 
